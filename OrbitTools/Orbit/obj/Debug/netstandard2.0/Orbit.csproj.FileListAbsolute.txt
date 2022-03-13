@@ -1,0 +1,13 @@
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/bin/Debug/netstandard2.0/Orbit.deps.json
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/bin/Debug/netstandard2.0/Orbit.dll
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/bin/Debug/netstandard2.0/Orbit.pdb
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/bin/Debug/netstandard2.0/Core.dll
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/bin/Debug/netstandard2.0/Core.pdb
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/obj/Debug/netstandard2.0/Orbit.csproj.AssemblyReference.cache
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/obj/Debug/netstandard2.0/Orbit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/obj/Debug/netstandard2.0/Orbit.AssemblyInfoInputs.cache
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/obj/Debug/netstandard2.0/Orbit.AssemblyInfo.cs
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/obj/Debug/netstandard2.0/Orbit.csproj.CoreCompileInputs.cache
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/obj/Debug/netstandard2.0/Orbit.csproj.CopyComplete
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/obj/Debug/netstandard2.0/Orbit.dll
+/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/obj/Debug/netstandard2.0/Orbit.pdb

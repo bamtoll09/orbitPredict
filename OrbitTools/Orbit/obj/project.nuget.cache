@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DyfWZBfTj7wVFOwYjvVFGxh3HhpHT4IwDXc2N/+VP9oNmfPH3Pm5vMenD0DpmHa65dP9UJZMefcibDnsDTxSZA==",
+  "success": true,
+  "projectFilePath": "/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/Orbit.csproj",
+  "expectedPackageFiles": [
+    "/Users/welon/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/welon/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "Orbit/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Orbit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Orbit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../OrbitTools/Core/Core.csproj",
+      "msbuildProject": "../OrbitTools/Core/Core.csproj"
+    },
+    "Orbit/1.0.0": {
+      "type": "project",
+      "path": "../OrbitTools/Orbit/Orbit.csproj",
+      "msbuildProject": "../OrbitTools/Orbit/Orbit.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Core >= 1.0.0",
+      "Orbit >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/welon/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/welon/Downloads/csOrbitTools/OrbitToolsDemo/OrbitToolsDemo.csproj",
+      "projectName": "OrbitToolsDemo",
+      "projectPath": "/Users/welon/Downloads/csOrbitTools/OrbitToolsDemo/OrbitToolsDemo.csproj",
+      "packagesPath": "/Users/welon/.nuget/packages/",
+      "outputPath": "/Users/welon/Downloads/csOrbitTools/OrbitToolsDemo/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/welon/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/welon/Downloads/csOrbitTools/OrbitTools/Core/Core.csproj": {
+              "projectPath": "/Users/welon/Downloads/csOrbitTools/OrbitTools/Core/Core.csproj"
+            },
+            "/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/Orbit.csproj": {
+              "projectPath": "/Users/welon/Downloads/csOrbitTools/OrbitTools/Orbit/Orbit.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
